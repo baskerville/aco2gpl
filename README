@@ -1,3 +1,11 @@
+This file and the others included in the aco2html repository were
+taken from http://www.hping.org/aco2html/ in order to make sure it
+is available to others that might need it, want it, etc.
+
+original source: http://www.hping.org/aco2html/
+
+-----------------
+
 INSTALLATION
 
 The software is written in ANSI C
