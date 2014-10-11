@@ -180,7 +180,7 @@ struct aco *readaco(FILE *infp)
 	aco->ver = ver;
 
 	/* Convert every color inside */
-	for (j; j < colors; j++) {
+	for (j = 0; j < colors; j++) {
 		int r,g,b;
 		char name[256];
 
